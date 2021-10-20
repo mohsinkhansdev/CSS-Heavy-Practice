@@ -1,1 +1,1 @@
-Basic Level Css is covererd
+Basic Level Css is covered.
